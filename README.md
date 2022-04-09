@@ -60,10 +60,12 @@ python3 main.py --realistic_exp --LPALM_realistic --model_path <model_path>
 ## Citation
 If you find the paper/code useful for your research, please consider citing:
 ```
-@article{fahes2021unrolling,
-  title={unrolling palm for sparse semi-blind source separation},
-  author={Fahes, Mohammad and Kervazo, Christophe and Bobin, J{\'e}r{\^o}me and Tupin, Florence},
-  journal={arXiv preprint arXiv:2112.05694},
-  year={2021}
+@inproceedings{
+fahes2022unrolling,
+title={Unrolling {PALM} for Sparse Semi-Blind Source Separation},
+author={Mohammad Fahes and Christophe Kervazo and J{\'e}r{\^o}me Bobin and Florence Tupin},
+booktitle={International Conference on Learning Representations},
+year={2022},
+url={https://openreview.net/forum?id=aBVxf5NaaRt}
 }
 ```
